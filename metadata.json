@@ -1,0 +1,6 @@
+{
+  "name": "Catálogo de Produtos e Painel Admin",
+  "description": "Um catálogo elegante com filtros avançados e um painel administrativo completo para gestão de produtos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
